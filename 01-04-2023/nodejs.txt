@@ -1,0 +1,8 @@
+//java script is browsers language//
+//js is single threaded, synchronous language//
+//js is event based language//
+//js was also has asynchronous behaviour  by using APIs//
+
+//nodejs//
+// it has single threaded event loop architechture.
+//it is based
